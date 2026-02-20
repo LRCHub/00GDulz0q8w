@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "優しくLAST SMILE",
+  "base_artist": "ずっと真夜中でいいのに。",
+  "createdAt": "2026-02-20T03:54:29.765004Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "優しくLAST SMILE",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/01_優しくLAST_SMILE_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "優しくLAST SMILE",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/02_優しくLAST_SMILE_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "優しくLAST SMILE (Instrumental)",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/03_優しくLAST_SMILE_(Instrumental)_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "優しくLAST SMILE - Yasashiku Last Smile",
+      "artist": "ずっと真夜中でいいのに。 - ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/04_優しくLAST_SMILE_-_Yasashiku_Last_Smile_ずっと真夜中でいいのに。_-_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "優しくLAST SMILE - Yasashiku Last Smile",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/05_優しくLAST_SMILE_-_Yasashiku_Last_Smile_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "優しくLAST SMILE",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_01_優しくLAST_SMILE_ずっと真夜中でいいのに。.txt"
+    }
+  ]
+}
